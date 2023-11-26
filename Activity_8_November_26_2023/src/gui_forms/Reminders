@@ -1,0 +1,12 @@
+Configure module-info.java to this, to resolve
+the issue of Unknown GUI toolkit
+
+/**
+ * 
+ */
+/**
+ * 
+ */
+module Activity_8_November_26_2023 {
+	requires java.desktop;
+}
